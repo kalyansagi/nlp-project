@@ -1,0 +1,17 @@
+# natural-language-processing-project
+
+== What does this application do?
+
+This is a final project for natural language processing to find customer sentiment analysis based on reviews from online websites.
+
+
+== Technical Details
+- Python Documentation: link:https://www.python.org/[Python]
+- Version control: git
+
+== Developer Guide to run the code locally
+TBD
+
+
+
+
