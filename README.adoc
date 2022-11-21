@@ -2,7 +2,7 @@
 
 == What does this application do?
 
-This is a final project for natural language processing to find customer sentiment analysis based on reviews from online websites.
+This is a final project for natural language processing to perform sentiment analysis based on customer reviews.
 
 
 == Technical Details
